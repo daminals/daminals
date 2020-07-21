@@ -1,1 +1,3 @@
-# daminals
+# Daniel Kogan
+
+Ahoy! 
