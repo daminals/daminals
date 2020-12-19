@@ -4,7 +4,13 @@
 Ahoy!    
 <div align="center>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs)](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs | width=100) [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs)](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs" width="75%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact" width="25%">
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs)](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs | width=100) 
+
+
+
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact)
 
 </div>
 
