@@ -12,11 +12,7 @@ Ahoy!
 
 </div>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs)](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs)<!-- .element style="width: 25%" -->
-
-
-
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs)](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs)<!-- .element style="width: 75%" --> [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact)<!-- .element style="width: 25%" -->
 
 
 ### Personal Statement
