@@ -1,5 +1,5 @@
 # Daniel Kogan
-### Brooklyn Tech '21, Israeli-American
+### Brooklyn Tech '21, TechHacks Director of Sponsorships, Israeli-American, Aspiring Computer Programmer
 
 Ahoy!    
 <div align="center>
