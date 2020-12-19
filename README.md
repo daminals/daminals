@@ -4,9 +4,10 @@
 Ahoy!    
 <div align="center>
 
-<img width="200" src="https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs)](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact" width="200">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=7&hide=html&layout=compact">
+
 
 </div>
 
