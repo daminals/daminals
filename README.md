@@ -2,7 +2,7 @@
 ### Stony Brook '25, Brooklyn Tech '21, Stony Brook IT Department Client Support, Israeli-American, Aspiring Computer Programmer
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs)](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs)<!-- .element style="width: 75%" --> [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact)<!-- .element style="width: 25%" -->
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true&hide=contribs,prs)](https://github-readme-stats.vercel.app/api?username=daminals&count_private=true&show_icons=true)<!-- .element style="width: 75%" --> [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact)<!-- .element style="width: 25%" -->
 
 
 ### Personal Statement
