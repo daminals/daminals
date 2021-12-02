@@ -7,7 +7,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact&show_icons=true" />
 </a>
-
+<a style="text-align: center;" href="https://wakatime.com"><img style="width: 500px;text-align: center;" src="https://wakatime.com/share/@daminals/2881d91c-6f74-433e-bf6d-8173acf98f7a.png" /></a>
 
 ### Personal Statement
 
