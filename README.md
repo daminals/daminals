@@ -12,6 +12,8 @@
   
 <!--START_SECTION:waka-->
 ```text
+Week: 26 November, 2021 - 02 December, 2021
+
 Rust          6 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   36.07 % 
 Python        4 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.79 % 
 Markdown      3 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 % 
