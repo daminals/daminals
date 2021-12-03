@@ -6,9 +6,9 @@
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact&show_icons=true" />
-</a>
-<a style="text-align: center;" href="https://wakatime.com/share/@daminals/2881d91c-6f74-433e-bf6d-8173acf98f7a.png"><img style="width: 500px;text-align: center;" src="https://wakatime.com/share/@daminals/2881d91c-6f74-433e-bf6d-8173acf98f7a.png" /></a>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 ### Personal Statement
 
 All my life, computers have always amazed me. From building block code games to Java GUIs, seeing things I made appear on my screen made my eyes widen. Programming makes me feel like a magician, it allows me to manipulate my environment (albeit a virtual one) in a way that only sorcerers could. More than that, it gives me a way to express my creativity. Computer projects offer a brand new medium of expression that unlike any previous mediums. 
