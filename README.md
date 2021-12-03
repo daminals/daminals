@@ -7,6 +7,13 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact&show_icons=true" />
 <!--START_SECTION:waka-->
+```text
+Rust          6 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   36.07 % 
+Python        4 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.79 % 
+Markdown      3 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Standard ML   1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Other         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+```
 <!--END_SECTION:waka-->
   
 ### Personal Statement
