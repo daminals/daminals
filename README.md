@@ -6,7 +6,7 @@
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html,css&layout=compact&show_icons=true" />
-  
+  </a>
   
   
   
