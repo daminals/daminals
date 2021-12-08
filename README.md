@@ -12,13 +12,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2021 - 06 December, 2021
+Week: 01 December, 2021 - 07 December, 2021
 
-Other         7 hrs 16 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 % 
-Rust          5 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 % 
-Python        4 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Markdown      3 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Standard ML   1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Other         9 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   32.89 % 
+Python        4 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Standard ML   4 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Rust          4 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Markdown      3 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 ```
 <!--END_SECTION:waka-->
   
