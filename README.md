@@ -12,13 +12,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
-Standard ML   7 hrs 14 mins   ███████████▒░░░░░░░░░░░░░   44.72 % 
-Other         3 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Python        2 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-JavaScript    1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-CSS           28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Standard ML   4 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   36.25 % 
+Python        2 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.22 % 
+JavaScript    1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+CSS           59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Other         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 <!--END_SECTION:waka-->
   
