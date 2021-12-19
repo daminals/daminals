@@ -12,13 +12,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
+Week: 12 December, 2021 - 18 December, 2021
 
-Python        7 hrs 29 mins   ████████████░░░░░░░░░░░░░   48.66 % 
-JavaScript    1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Standard ML   1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-HTML          1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-CSS           1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Python       7 hrs 36 mins   ████████████▓░░░░░░░░░░░░   51.19 % 
+JavaScript   1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+HTML         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+CSS          1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Other        58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 ```
 <!--END_SECTION:waka-->
   
