@@ -12,13 +12,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 16 December, 2021 - 22 December, 2021
+Week: 17 December, 2021 - 23 December, 2021
 
-JavaScript   8 hrs 26 mins   ████████████▒░░░░░░░░░░░░   48.70 % 
-Python       5 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.28 % 
-Other        46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Docker       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-CSS          43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JavaScript   8 hrs 37 mins   █████████████▒░░░░░░░░░░░   53.33 % 
+Python       4 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.72 % 
+Other        46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Docker       46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+CSS          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 <!--END_SECTION:waka-->
   
