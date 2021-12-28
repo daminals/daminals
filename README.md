@@ -12,13 +12,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2021 - 26 December, 2021
+Week: 21 December, 2021 - 27 December, 2021
 
-JavaScript   8 hrs 10 mins   ██████████████▓░░░░░░░░░░   59.05 % 
-Python       2 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.43 % 
-Other        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-CSS          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Text         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+JavaScript   4 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   36.46 % 
+Python       3 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.82 % 
+Other        1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Text         1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Bash         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 ```
 <!--END_SECTION:waka-->
   
