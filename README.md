@@ -1,7 +1,7 @@
 # Daniel Kogan
 ### Stony Brook '25, Brooklyn Tech '21, Stony Brook IT Department Client Support, Israeli-American, Aspiring Computer Programmer
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=6&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=6&hide=html&layout=compact)<!-- .element style="width: 25%" -->
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=6&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=6&hide=html&layout=compact)
 
   
 <!--START_SECTION:waka-->
