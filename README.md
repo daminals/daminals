@@ -1,20 +1,14 @@
 # Daniel Kogan
 
-<style>
-img[src~="langs"] {
-   width:150px;
-   height:100px;
-}
-</style>
-
 ### Stony Brook '25, Brooklyn Tech '21, Stony Brook IT Department Client Support, Israeli-American, Aspiring Computer Programmer
 
 
 # Graphs
 
+<div style="width: 100%">
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=6&hide=html&layout=compact#langs)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=6&hide=html&layout=compact#langs)
-
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=6&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=6&hide=html&layout=compact)
+</div>
 
 <!--START_SECTION:waka-->
 ```text
