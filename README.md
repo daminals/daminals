@@ -1,9 +1,21 @@
 # Daniel Kogan
+
+<div class="head" style="width: 100%">
+
+<div class="left" style="width: 50%; float: left">
+
 ### Stony Brook '25, Brooklyn Tech '21, Stony Brook IT Department Client Support, Israeli-American, Aspiring Computer Programmer
+</div>
+
+<div class="right" style="float: right;width: 50%">
 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=6&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=6&hide=html&layout=compact)
+</div>
+</div>
 
-  
+
+<div style="width: 100%">
+
 <!--START_SECTION:waka-->
 ```text
 Week: 28 December, 2021 - 03 January, 2022
@@ -15,7 +27,8 @@ Text        40 mins         █░░░░░░░░░░░░░░░░�
 sshconfig   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 <!--END_SECTION:waka-->
-  
+</div>
+
 ### Personal Statement
 
 All my life, computers have always amazed me. From building block code games to Java GUIs, seeing things I made appear on my screen made my eyes widen. Programming makes me feel like a magician, it allows me to manipulate my environment (albeit a virtual one) in a way that only sorcerers could. More than that, it gives me a way to express my creativity. Computer projects offer a brand new medium of expression that is unlike any previous mediums. 
