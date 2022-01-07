@@ -12,13 +12,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
-Python      11 hrs 45 mins  ████████████████████░░░░░   79.86 % 
-Markdown    57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Other       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-JSON        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-sshconfig   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python      9 hrs 14 mins   ███████████████████░░░░░░   75.72 % 
+Markdown    43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Other       42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+JSON        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+sshconfig   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 <!--END_SECTION:waka-->
 
