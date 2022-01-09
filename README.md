@@ -7,7 +7,7 @@
 
 <div style="width: 100%">
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=6&hide=html&layout=compact)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html&layout=compact)
 </div>
 
 <!--START_SECTION:waka-->
