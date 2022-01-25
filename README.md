@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
 Python   40 mins         ████████████████░░░░░░░░░   64.14 % 
 zsh      13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 % 
