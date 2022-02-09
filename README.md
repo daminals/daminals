@@ -12,10 +12,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
-Java         5 mins          ████████████████▓░░░░░░░░   67.02 % 
-JavaScript   2 mins          ████████░░░░░░░░░░░░░░░░░   31.60 % 
+Java         44 mins         ███████████████▒░░░░░░░░░   61.94 % 
+Rust         24 mins         ████████▒░░░░░░░░░░░░░░░░   33.72 % 
+JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 <!--END_SECTION:waka-->
 
