@@ -12,12 +12,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
-Rust       2 hrs 20 mins   ████████████████▓░░░░░░░░   67.06 % 
-Java       54 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.98 % 
-Markdown   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-TOML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Rust       6 hrs 34 mins   ████████████████░░░░░░░░░   63.89 % 
+Java       3 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.46 % 
+Markdown   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+TOML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
