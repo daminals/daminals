@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
 Rust       8 hrs 32 mins   ████████████████▒░░░░░░░░   65.96 % 
 Java       3 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 % 
