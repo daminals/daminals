@@ -12,13 +12,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2022 - 19 February, 2022
+Week: 14 February, 2022 - 20 February, 2022
 
-Rust       5 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   38.89 % 
-Python     3 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 % 
-Java       3 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.40 % 
-Text       47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Markdown   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Python     6 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.50 % 
+Rust       5 hrs 27 mins   ███████▒░░░░░░░░░░░░░░░░░   29.81 % 
+Java       3 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Markdown   1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Text       44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 ```
 <!--END_SECTION:waka-->
 
