@@ -11,15 +11,17 @@
 </div>
 
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-Rust       10 hrs 23 mins  ███████████▒░░░░░░░░░░░░░   45.64 % 
-Java       5 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.52 % 
-Python     3 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Text       1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Markdown   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Rust         10 hrs 56 mins  ██████████████░░░░░░░░░░░   56.27 %
+Java         5 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
+Text         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Markdown     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Other        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
+
 <!--END_SECTION:waka-->
 
 # Personal Statement
