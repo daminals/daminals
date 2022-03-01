@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2022 - To: 27 February 2022
+From: 21 February 2022 - To: 28 February 2022
 
-Rust         10 hrs 56 mins  ██████████████░░░░░░░░░░░   56.27 %
-Java         5 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-Text         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Markdown     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Other        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Rust         10 hrs 24 mins  ██████████████▒░░░░░░░░░░   57.80 %
+Java         5 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.48 %
+Text         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+Markdown     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
