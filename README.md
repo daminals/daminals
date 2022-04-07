@@ -13,10 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2022 - To: 05 April 2022
+From: 30 March 2022 - To: 06 April 2022
 
-Java      1 hr 17 mins    ████████████████████████▓   98.54 %
-pamconf   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Java   1 hr 17 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
