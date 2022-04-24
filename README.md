@@ -13,11 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2022 - To: 22 April 2022
+From: 16 April 2022 - To: 23 April 2022
 
-Java    5 hrs 15 mins   ████████████████████████▓   99.27 %
-Text    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java   1 hr 25 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
