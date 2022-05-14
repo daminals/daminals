@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2022 - To: 12 May 2022
+From: 06 May 2022 - To: 13 May 2022
 
 Java   2 hrs 20 mins   █████████████████████████   100.00 %
 ```
