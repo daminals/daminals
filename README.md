@@ -13,14 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 May 2022 - To: 01 June 2022
+From: 26 May 2022 - To: 02 June 2022
 
 Vue.js       13 mins         ████████████████████▓░░░░   82.65 %
 JSON         2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
 HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-sh           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
