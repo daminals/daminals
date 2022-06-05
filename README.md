@@ -13,13 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 May 2022 - To: 03 June 2022
-
-Vue.js       13 mins         ████████████████████▓░░░░   82.65 %
-JSON         2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
