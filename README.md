@@ -13,7 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 June 2022 - To: 08 June 2022
+
+Java     1 min           ██████████████████████▒░░   89.35 %
+Vue.js   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
 ```
 
 <!--END_SECTION:waka-->
