@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
 Java     1 min           ██████████████████████▒░░   89.35 %
 Vue.js   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
