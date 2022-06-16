@@ -13,10 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 June 2022 - To: 14 June 2022
-
-Java     1 min           ██████████████████████▒░░   89.35 %
-Vue.js   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
