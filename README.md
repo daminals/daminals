@@ -13,13 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2022 - To: 22 August 2022
+From: 16 August 2022 - To: 23 August 2022
 
-Markdown     2 hrs 31 mins   ██████████████████▓░░░░░░   75.17 %
-JavaScript   45 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
-Rust         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown     2 hrs 38 mins   ████████████████████▓░░░░   83.23 %
+JavaScript   31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+Rust         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
