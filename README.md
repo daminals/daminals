@@ -1,6 +1,6 @@
 # Daniel Kogan
 
-### Stony Brook '25, Brooklyn Tech '21, Stony Brook IT Department Client Support, Israeli-American, Aspiring Computer Programmer
+### Stony Brook '24, Brooklyn Tech '21, Stony Brook IT Department Client Support, Israeli-American, Aspiring Computer Programmer
 
 
 # Graphs
