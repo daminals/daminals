@@ -13,12 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 05 September 2022
+From: 31 August 2022 - To: 07 September 2022
 
-Java         1 hr 9 mins     ██████████████████████░░░   87.45 %
-sh           7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Java         41 mins         █████████████████▒░░░░░░░   69.66 %
+sh           7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+Markdown     5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Assembly     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
