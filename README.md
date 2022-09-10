@@ -13,14 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 September 2022 - To: 08 September 2022
+From: 02 September 2022 - To: 09 September 2022
 
-Markdown     1 hr 32 mins    ███████████▓░░░░░░░░░░░░░   46.38 %
-Java         48 mins         ██████░░░░░░░░░░░░░░░░░░░   24.58 %
-Python       27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-JavaScript   23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Assembly     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Java         1 hr 37 mins    █████████▓░░░░░░░░░░░░░░░   38.70 %
+Markdown     1 hr 33 mins    █████████▒░░░░░░░░░░░░░░░   37.09 %
+Python       27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+JavaScript   23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Text         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Assembly     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
