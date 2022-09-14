@@ -1,7 +1,12 @@
 # Daniel Kogan
 
-### Stony Brook '24, Brooklyn Tech '21, Stony Brook IT Department Client Support, Israeli-American, Aspiring Computer Programmer
+- Stony Brook '24
+- Brooklyn Tech '21
+- Aspiring Software Developer
 
+# Summary
+
+Hello! My name is Daniel and I’m a Junior in the Computer Science Honors program here at SBU. I have been interested in CS as soon as I first got my computer to blink and show colors, and I have learned a lot more since then. I’ve had several experiences in the field such as my Software Engineering Internship at CargoMatrix and my role as an IT Technician here at Stony Brook. I want to expand my skill set in software development, and am currently looking for an internship in tech. I'd love to learn more about your company and how I can support your mission.
 
 # Graphs
 
@@ -24,7 +29,3 @@ Assembly     3 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-# Personal Statement
-
-All my life, computers have always amazed me. From building block code games to Java GUIs, seeing things I made appear on my screen made my eyes widen. Programming makes me feel like a magician, it allows me to manipulate my environment (albeit a virtual one) in a way that only sorcerers could. More than that, it gives me a way to express my creativity. Computer projects offer a brand new medium of expression that is unlike any previous mediums. 
