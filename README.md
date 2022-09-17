@@ -20,14 +20,14 @@ Hello! My name is Daniel and I’m a Junior in the Computer Science Honors progr
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 September 2022 - To: 15 September 2022
+From: 09 September 2022 - To: 16 September 2022
 
-Java       2 hrs 15 mins   ███████████████▒░░░░░░░░░   60.77 %
-Assembly   1 hr            ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
-sh         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Text       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-zsh        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Java       1 hr 26 mins    ████████████▓░░░░░░░░░░░░   51.15 %
+Assembly   1 hr            █████████░░░░░░░░░░░░░░░░   35.72 %
+sh         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+zsh        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+JSON       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
