@@ -36,4 +36,6 @@ Other      15 mins         ▓░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+# Achievements 
+
 ![](https://github-profile-trophy.vercel.app/?username=daminals&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
