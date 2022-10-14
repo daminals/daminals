@@ -1,5 +1,7 @@
 ![github repo badge: CargoMatrix](https://img.shields.io/badge/CargoMatrix--181717?color=blue)
 ![github repo badge: Stony Brook Division of IT](https://img.shields.io/badge/Stony%20Brook%20Division%20of%20IT--181717?color=red)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@danielkoganx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielkogan123) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniel.kogann)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQFhOKlQ2xw-t02pZz2O7Ug) 
 # Daniel Kogan
 
 - Stony Brook '24
@@ -29,3 +31,5 @@ Other      15 mins         ▓░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![](https://github-profile-trophy.vercel.app/?username=daminals&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
