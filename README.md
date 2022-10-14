@@ -12,6 +12,10 @@
 
 Hello! My name is Daniel and I’m a student in the Computer Science Honors program here at SBU. I have been interested in CS as soon as I first got my computer to blink and show colors, and I have learned a lot more since then. I’ve had several experiences in the field such as my Software Engineering Internship at CargoMatrix and my role as an IT Technician here at Stony Brook. I want to expand my skill set in software development, and am currently looking for an internship in tech. I'd love to learn more about your company and how I can support your mission.
 
+# Latest Article
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@danielkoganx/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@danielkoganx/0" alt="Recent Article 0"> 
+
 # Graphs
 
 <div style="width: 100%">
