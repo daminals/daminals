@@ -26,12 +26,12 @@ Hello! My name is Daniel and I’m a student in the Computer Science Honors prog
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 October 2022 - To: 16 October 2022
+From: 10 October 2022 - To: 17 October 2022
 
-Python     3 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   46.66 %
-Java       2 hrs 47 mins   █████████▒░░░░░░░░░░░░░░░   37.09 %
-Assembly   29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Other      15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Java       2 hrs 42 mins   ███████████▒░░░░░░░░░░░░░   45.59 %
+Python     2 hrs 14 mins   █████████▒░░░░░░░░░░░░░░░   37.76 %
+Assembly   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Other      15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
 ```
 
 <!--END_SECTION:waka-->
