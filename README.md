@@ -26,7 +26,7 @@ Hello! My name is Daniel and I’m a student in the Computer Science Honors prog
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 November 2022 - To: 05 December 2022
+From: 29 November 2022 - To: 06 December 2022
 
 Standard ML   45 mins         █████████████████▓░░░░░░░   70.39 %
 Java          16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
