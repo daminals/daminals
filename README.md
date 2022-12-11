@@ -6,7 +6,7 @@
 
 - Stony Brook '24
 - Brooklyn Tech '21
-- Aspiring Software Developer
+- Software Developer
 
 # Summary
 
