@@ -27,7 +27,7 @@ Hello! My name is Daniel and I’m a student in the Computer Science Honors prog
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
+From: 24 December 2022 - To: 31 December 2022
 
 Python     20 mins         ████████████████████░░░░░   79.97 %
 Bash       3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
