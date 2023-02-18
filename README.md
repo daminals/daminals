@@ -6,7 +6,7 @@
 
 - Stony Brook '24
 - Brooklyn Tech '21
-- Software Developer
+- Incoming SWE Intern @ JP Morgan
 
 # Summary
 
