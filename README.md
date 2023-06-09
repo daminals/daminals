@@ -6,7 +6,7 @@
 
 - Stony Brook '24
 - Brooklyn Tech '21
-- Incoming SWE Intern @ JP Morgan
+- SWE Intern @ JP Morgan
 
 # Summary
 
