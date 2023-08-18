@@ -27,13 +27,13 @@ Hello! My name is Daniel and I’m a student in the Computer Science Honors prog
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-Rust         2 hrs 4 mins    ██████████░░░░░░░░░░░░░░░   39.59 %
-HTML         1 hr 25 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
-JavaScript   34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Terraform    28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-TOML         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Rust             2 hrs 4 mins    █████████░░░░░░░░░░░░░░░░   35.75 %
+HTML             1 hr 25 mins    ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+JavaScript       34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Terraform        28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+TOML             26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
 ```
 
 <!--END_SECTION:waka-->
