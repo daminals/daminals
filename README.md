@@ -27,13 +27,13 @@ Hello! My name is Daniel and I’m a student in the Computer Science Honors prog
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2023 - To: 20 September 2023
+From: 14 September 2023 - To: 21 September 2023
 
-Python       2 hrs 1 min     ████████████████████▓░░░░   83.33 %
-Git          12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Python       2 hrs 1 min     ████████████▒░░░░░░░░░░░░   48.94 %
+JavaScript   1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
+HTML         25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+CSS          19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Git          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
 ```
 
 <!--END_SECTION:waka-->
