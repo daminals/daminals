@@ -27,13 +27,13 @@ Hello! My name is Daniel and I’m a student in the Computer Science Honors prog
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 04 December 2023
+From: 29 November 2023 - To: 06 December 2023
 
-Python       10 hrs 35 mins  ████████████████▒░░░░░░░░   64.99 %
-Other        3 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
-Bash         1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Docker       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Terraform    31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Python       13 hrs 55 mins  ██████████████▓░░░░░░░░░░   58.22 %
+Other        3 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+Bash         2 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Docker       1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+YAML         1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
 ```
 
 <!--END_SECTION:waka-->
