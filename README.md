@@ -27,7 +27,7 @@ Hello! My name is Daniel and I’m a student in the Computer Science Honors prog
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2023 - To: 16 December 2023
+From: 10 December 2023 - To: 17 December 2023
 
 JavaScript   16 hrs 9 mins   ██████████████████████▒░░   89.44 %
 HTML         1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
