@@ -27,13 +27,9 @@ Hello! My name is Daniel and I’m a student in the Computer Science Honors prog
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-Rust         6 hrs 19 mins   ████████████████████████░   95.79 %
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-TOML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Vim Script   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-zsh          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
