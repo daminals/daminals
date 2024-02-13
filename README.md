@@ -22,13 +22,13 @@ Hello! My name is Daniel and I’m a student in the Computer Science Honors prog
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
-Go           9 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.44 %
-Dart         8 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.07 %
-Text         4 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-JSON         1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Svelte       1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Dart         8 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   27.56 %
+Go           8 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
+Text         4 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+Markdown     1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+JSON         1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
