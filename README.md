@@ -23,13 +23,13 @@ Master's student interested in Cloud Computing and Security. Worked at some cool
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2024 - To: 01 March 2024
+From: 24 February 2024 - To: 02 March 2024
 
-Python       4 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   37.81 %
-JavaScript   2 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
-Svelte       1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-JSON         1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Markdown     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Svelte       3 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   27.71 %
+Python       3 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   24.15 %
+TypeScript   1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+JavaScript   1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+JSON         1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
 ```
 
 <!--END_SECTION:waka-->
