@@ -23,13 +23,13 @@ Master's student interested in Cloud Computing and Security. Worked at some cool
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-Go                15 hrs 57 mins  ████████████████░░░░░░░░░   63.35 %
-YAML              3 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-Rust              2 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-Text              1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Docker            34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Go                16 hrs 21 mins  ██████████████▓░░░░░░░░░░   58.57 %
+Rust              5 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
+YAML              2 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Text              1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Docker            48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
