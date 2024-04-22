@@ -2,6 +2,9 @@
 [![github repo badge: Stony Brook Division of IT](https://img.shields.io/badge/Stony%20Brook%20Division%20of%20IT--181717?color=red)](https://it.stonybrook.edu/)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@danielkoganx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielkogan123)
+
+![Header](./daniel-kogan.png)
+
 # Daniel Kogan
 
 - Stony Brook '24
