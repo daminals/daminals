@@ -1,9 +1,5 @@
-[![github repo badge: JP Morgan Chase](https://img.shields.io/badge/JP_Morgan_Chase--181717?color=blue)](https://careers.jpmorgan.com/in/en/students/programs/software-engineer-summer?search=&tags=location__Americas__UnitedStatesofAmerica)
-[![github repo badge: Stony Brook Division of IT](https://img.shields.io/badge/Stony%20Brook%20Division%20of%20IT--181717?color=red)](https://it.stonybrook.edu/)
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@danielkoganx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielkogan123)
-
 ![Header](./daniel-kogan.png)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@danielkoganx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielkogan123)
 
 # Daniel Kogan
 
