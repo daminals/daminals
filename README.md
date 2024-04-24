@@ -22,13 +22,13 @@ Master's student interested in Cloud Computing and Security. Worked at some cool
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2024 - To: 22 April 2024
+From: 16 April 2024 - To: 23 April 2024
 
-Rust         5 hrs 23 mins   ████████████▓░░░░░░░░░░░░   50.23 %
-Svelte       3 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   36.06 %
-SSH Config   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-pamconf      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Rust         4 hrs 50 mins   ████████████░░░░░░░░░░░░░   48.26 %
+Svelte       3 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   38.58 %
+SSH Config   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+pamconf      12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
