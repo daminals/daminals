@@ -22,7 +22,7 @@ Master's student interested in Cloud Computing and Security. Worked at some cool
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2024 - To: 22 November 2024
+From: 16 November 2024 - To: 23 November 2024
 
 No activity tracked
 ```
