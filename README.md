@@ -22,9 +22,13 @@ Master's student interested in Cloud Computing and Security. Worked at some cool
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2025 - To: 07 March 2025
+From: 01 March 2025 - To: 08 March 2025
 
-Nginx configuration file   0 secs          █████████████████████████   100.00 %
+Other                      1 hr 24 mins    ███████████████▒░░░░░░░░░   61.53 %
+Python                     46 mins         ████████▓░░░░░░░░░░░░░░░░   34.18 %
+JSON                       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Bash                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
