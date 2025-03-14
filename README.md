@@ -22,7 +22,7 @@ Master's student interested in Cloud Computing and Security. Worked at some cool
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2025 - To: 12 March 2025
+From: 06 March 2025 - To: 13 March 2025
 
 Other                      1 hr 24 mins    ███████████████▒░░░░░░░░░   61.53 %
 Python                     46 mins         ████████▓░░░░░░░░░░░░░░░░   34.18 %
